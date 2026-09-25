@@ -1,0 +1,8 @@
+---
+title: "PCA Image Compressor App Mockup"
+---
+
+## App Mockup
+
+![](mockup.jpeg)
+*The app design provides a simple and intuitive UI for PCA image compression. The user can upload an image, selected the desired number of PCs, and immediately see the resulting compressed image. Displaying the original side-by-side is important for a user to easily determine visually if their compression is too high.*
